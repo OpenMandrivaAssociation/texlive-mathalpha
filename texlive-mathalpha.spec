@@ -3,7 +3,7 @@ Version:	61089
 Release:	2
 Summary:	General package for loading maths alphabets in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathalpha
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathalpha
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathalpha.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathalpha.doc.r%{version}.tar.xz
